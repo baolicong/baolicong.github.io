@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://baolicong.cn/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://baolicong.cn/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -29,7 +20,70 @@
   </url>
   
   <url>
+    <loc>https://baolicong.cn/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://baolicong.cn/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://baolicong.cn/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://baolicong.cn/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://baolicong.cn/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://baolicong.cn/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://baolicong.cn/site/census/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://baolicong.cn/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -56,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://baolicong.cn/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://baolicong.cn/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -74,43 +119,7 @@
   </url>
   
   <url>
-    <loc>https://baolicong.cn/personal/about/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://baolicong.cn/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://baolicong.cn/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://baolicong.cn/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://baolicong.cn/social/link/index.html</loc>
+    <loc>https://baolicong.cn/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -120,15 +129,6 @@
   
   <url>
     <loc>https://baolicong.cn/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://baolicong.cn/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
