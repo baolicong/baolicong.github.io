@@ -1113,7 +1113,7 @@ function changeMouseMode() {
 var now1 = new Date();
 
 function createtime1() {
-  var grt = new Date("08/09/2022 00:00:00"); //此处修改你的建站时间或者网站上线时间
+  var grt = new Date("04/04/2024 00:00:00"); //此处修改你的建站时间或者网站上线时间
   now1.setTime(now1.getTime() + 250);
   var days = (now1 - grt) / 1000 / 60 / 60 / 24;
   var dnum = Math.floor(days);
@@ -1122,7 +1122,16 @@ function createtime1() {
     `欢迎来到BLCaini🥝の小家!`,
     `Future is now 🍭🍭🍭`,
     `
-          
+         $$$$$$$\  $$\        $$$$$$\            $$\           $$\ 
+$$  __$$\ $$ |      $$  __$$\           \__|          \__|
+$$ |  $$ |$$ |      $$ /  \__| $$$$$$\  $$\ $$$$$$$\  $$\ 
+$$$$$$$\ |$$ |      $$ |       \____$$\ $$ |$$  __$$\ $$ |
+$$  __$$\ $$ |      $$ |       $$$$$$$ |$$ |$$ |  $$ |$$ |
+$$ |  $$ |$$ |      $$ |  $$\ $$  __$$ |$$ |$$ |  $$ |$$ |
+$$$$$$$  |$$$$$$$$\ \$$$$$$  |\$$$$$$$ |$$ |$$ |  $$ |$$ |
+\_______/ \________| \______/  \_______|\__|\__|  \__|\__|
+                                                          
+                                                           
                                               
 `,
     "小站已经苟活",
@@ -3155,7 +3164,7 @@ let picsum = "url(https://picsum.photos/1920/1080.webp)";
 // 小歪二次元
 // let waiDongman = "url(https://api.ixiaowai.cn/api/api.php)";
 //  小歪高清壁纸
-let waiBizhi = "url(https://api.ixiaowai.cn/gqapi/gqapi.php)";
+let waiBizhi = "url(https://tuchuang.voooe.cn/images/2024/06/06/4k_1.jpg)";
 // 博天随机
 let btstu = "url(http://api.btstu.cn/sjbz/?lx=suiji)";
 // tuapi 动漫
@@ -3169,10 +3178,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://lskypro.acozycotage.net/BLCaini/img/dm14.webp);
-    --darkmode-bg:url(https://lskypro.acozycotage.net/BLCaini/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/BLCaini/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/BLCaini/img/mb8.webp);
+    --default-bg: url(https://tuchuang.voooe.cn/images/2024/06/06/4k_1.jpg);
+    --darkmode-bg:url(https://tuchuang.voooe.cn/images/2024/06/06/----4k_1.jpg);
+    --mobileday-bg: url(https://tuchuang.voooe.cn/images/2024/06/06/4k_1.jpg);
+    --mobilenight-bg: url(https://tuchuang.voooe.cn/images/2024/06/06/----4k_1.jpg);
   }`;
 }
 // 切换背景主函数

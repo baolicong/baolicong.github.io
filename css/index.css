@@ -7701,7 +7701,7 @@ button#go-up:hover #percent {
 
 /* 个人信息卡片背景图 */
 [data-theme="light"] #aside-content > .card-widget.card-info {
-  background-image: url(https://tuchuang.voooe.cn/images/2023/02/28/springBg.png);
+  background-image: url(https://tuchuang.voooe.cn/images/2024/06/08/beijing-.png);
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
@@ -9267,11 +9267,11 @@ figure.highlight pre .deletion {
   color: #ccc !important;
 }
 
-/* 信息卡片彩带 */
-/* .author_top:hover {
+/*信息卡片彩带 */
+.author_top:hover {
   background: url(https://tuchuang.voooe.cn/images/2023/01/02/snow.gif);
   background-size: cover;
-} */
+} 
 
 /* 霓虹灯css实现 light_15px 10s linear infinite */
 [data-theme="light"] #site-name,
